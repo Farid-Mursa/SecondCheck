@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailValidator", "EmailValidator\EmailValidator.csproj", "{A582E39D-7F12-4C4F-8A81-3156E1AA9061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A582E39D-7F12-4C4F-8A81-3156E1AA9061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A582E39D-7F12-4C4F-8A81-3156E1AA9061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A582E39D-7F12-4C4F-8A81-3156E1AA9061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A582E39D-7F12-4C4F-8A81-3156E1AA9061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688873E2-5768-4278-8D68-53ED4202ACA1}
+	EndGlobalSection
+EndGlobal
